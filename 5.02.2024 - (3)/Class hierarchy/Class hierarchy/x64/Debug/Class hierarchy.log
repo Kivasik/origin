@@ -1,0 +1,43 @@
+﻿  Class hierarchy.cpp
+  EquilateralTriangle.cpp
+A:\NETEOLOGY\2\5.02.2024 - (3)\Class hierarchy\Class hierarchy\RectangularTriangle.h(9,10): error C3668: RectangularTriangle::printInfo: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Class%20hierarchy.cpp")
+  
+A:\NETEOLOGY\2\5.02.2024 - (3)\Class hierarchy\Class hierarchy\IsoscelesTriangle.h(9,10): error C3668: IsoscelesTriangle::printInfo: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Class%20hierarchy.cpp")
+  
+A:\NETEOLOGY\2\5.02.2024 - (3)\Class hierarchy\Class hierarchy\Quadrilateral.h(4,10): error C1083: Не удается открыть файл включение: Shape.h: No such file or directory,
+  (компиляция исходного файла "Class%20hierarchy.cpp")
+  
+  IsoscelesTriangle.cpp
+A:\NETEOLOGY\2\5.02.2024 - (3)\Class hierarchy\Class hierarchy\IsoscelesTriangle.h(9,10): error C3668: IsoscelesTriangle::printInfo: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "IsoscelesTriangle.cpp")
+  
+  Parallelogram.cpp
+A:\NETEOLOGY\2\5.02.2024 - (3)\Class hierarchy\Class hierarchy\Quadrilateral.h(4,10): error C1083: Не удается открыть файл включение: Shape.h: No such file or directory,
+  (компиляция исходного файла "Parallelogram.cpp")
+  
+  Quadrilateral.cpp
+A:\NETEOLOGY\2\5.02.2024 - (3)\Class hierarchy\Class hierarchy\Quadrilateral.h(4,10): error C1083: Не удается открыть файл включение: Shape.h: No such file or directory,
+  (компиляция исходного файла "Quadrilateral.cpp")
+  
+  Rectangle.cpp
+A:\NETEOLOGY\2\5.02.2024 - (3)\Class hierarchy\Class hierarchy\Quadrilateral.h(4,10): error C1083: Не удается открыть файл включение: Shape.h: No such file or directory,
+  (компиляция исходного файла "Rectangle.cpp")
+  
+  RectangularTriangle.cpp
+A:\NETEOLOGY\2\5.02.2024 - (3)\Class hierarchy\Class hierarchy\RectangularTriangle.h(9,10): error C3668: RectangularTriangle::printInfo: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "RectangularTriangle.cpp")
+  
+  Rhombus.cpp
+A:\NETEOLOGY\2\5.02.2024 - (3)\Class hierarchy\Class hierarchy\Quadrilateral.h(4,10): error C1083: Не удается открыть файл включение: Shape.h: No such file or directory,
+  (компиляция исходного файла "Rhombus.cpp")
+  
+  Square.cpp
+A:\NETEOLOGY\2\5.02.2024 - (3)\Class hierarchy\Class hierarchy\Quadrilateral.h(4,10): error C1083: Не удается открыть файл включение: Shape.h: No such file or directory,
+  (компиляция исходного файла "Square.cpp")
+  
+  Triangle.cpp
+A:\NETEOLOGY\2\5.02.2024 - (3)\Class hierarchy\Class hierarchy\Triangle.cpp(2,10): error C2006: "#include": требуется "FILENAME" или <FILENAME>.
+A:\NETEOLOGY\2\5.02.2024 - (3)\Class hierarchy\Class hierarchy\Triangle.cpp(2,10): error C1083: Не удается открыть файл включение: : No such file or directory,
+  Создание кода...
