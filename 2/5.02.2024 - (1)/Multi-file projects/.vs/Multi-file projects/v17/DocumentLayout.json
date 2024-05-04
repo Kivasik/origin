@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NETEOLOGY\\2\\5.02.2024 - (1)\\Multi-file projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC431FE4-E310-4C34-B23F-4221E2BCF5FA}|Multi-file projects\\Multi-file projects.vcxproj|D:\\NETEOLOGY\\2\\5.02.2024 - (1)\\Multi-file projects\\Multi-file projects\\Multi-file projects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC431FE4-E310-4C34-B23F-4221E2BCF5FA}|Multi-file projects\\Multi-file projects.vcxproj|solutionrelative:Multi-file projects\\Multi-file projects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Multi-file projects.cpp",
+              "DocumentMoniker": "D:\\NETEOLOGY\\2\\5.02.2024 - (1)\\Multi-file projects\\Multi-file projects\\Multi-file projects.cpp",
+              "RelativeDocumentMoniker": "Multi-file projects\\Multi-file projects.cpp",
+              "ToolTip": "D:\\NETEOLOGY\\2\\5.02.2024 - (1)\\Multi-file projects\\Multi-file projects\\Multi-file projects.cpp",
+              "RelativeToolTip": "Multi-file projects\\Multi-file projects.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T15:15:40.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
